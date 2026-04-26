@@ -1,6 +1,6 @@
 # 🎮 Mindful Arena
 
-> *Classic minds, modern battles *
+> Classic minds, modern battles 
 
 ![Build](https://img.shields.io/badge/build-passing-brightgreen) ![License](https://img.shields.io/badge/license-MIT-blue) ![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android) ![Language](https://img.shields.io/badge/language-Java%2011-orange?logo=java) ![Min SDK](https://img.shields.io/badge/minSDK-24-blueviolet) ![Firebase](https://img.shields.io/badge/backend-Firebase-FFCA28?logo=firebase)
 
@@ -179,7 +179,7 @@ Q1 2027 → iOS port, cross-platform multiplayer support
 
 <div align="center">
 
-Built with 💙 by **[Yassmine Feki]** & **Nour Ben Slimene**
+Built with 💙 by **Yassmine Feki** & **Nour Ben Slimene**
 
 *Two developers, one board, infinite possibilities.*
 
