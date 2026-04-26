@@ -1,0 +1,99 @@
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+*.jar
+*.rar
+*.zip
+*.gz
+*.bak
+*.swp
+*~.nib
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+
+# Gradle
+.gradle
+/build
+/*/build
+/*/*/build
+**/build/
+gradle-app.setting
+!gradle-wrapper.jar
+.gradletasknamecache
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/
+.externalNativeBuild
+.cxx/
+local.properties
+
+# Native development (NDK)
+.externalNativeBuild
+.cxx
+
+# Firebase & Secrets (CRITICAL)
+app/google-services.json
+google-services.json
+secrets.properties
+*.keystore
+*.jks
+.env
+.env.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Room Database
+*.db
+*.db-journal
+
+# Test
+**/test-results/
+**/androidTest-results/
+
+# Generated files
+/captures
+proguard/
+mapping.txt
+
+# Misc
+.checkstyle
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+*.iml
+*.iws
+*.ipr
+*.ids
+*.orig
+.history
