@@ -169,6 +169,8 @@ Q1 2027 → iOS port, cross-platform multiplayer support
 3. Browse open tasks on [Issues](https://github.com/Yassminefeki/Mindful_Arena/issues)
 4. Every PR must include at least one test covering the changed logic
 
+
+
 ---
 
 ## 📄 License
